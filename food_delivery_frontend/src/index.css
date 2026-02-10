@@ -1,0 +1,5 @@
+/* Keep this minimal; the app theme is defined in App.css */
+html, body {
+  margin: 0;
+  padding: 0;
+}
